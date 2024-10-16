@@ -14,8 +14,8 @@
     <!-- <a href="rafinha.dev@outlook.com"><img scr="https://img.shields.io/badge/-rafinha.dev-c14438?style=flat&logo=Outlook&logoColor=white&link=mailto:rafinha.dev@outlook.com" alt="Outlook Badge"></a> -->
 </p>
 
- <!--<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" /> -->
-<img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" />
+<!-- <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" /> -->
+<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="480" />
 
 <h2>⚡️ Alguns fatos rápidos</h2>
 <ul>
@@ -49,7 +49,6 @@
 Credits: [mazarafa](https://github.com/mazarafa)
 
 Last Edited on: 27/12/2020
-
 
 
 
