@@ -16,16 +16,16 @@
 <!-- <img align="right" src="https://media.giphy.com/media/9gISqB3tncMmY/giphy.gif" width="480" /> -->
 <img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="480" />
 
-<h2>⚡️ Alguns fatos rápidos</h2>
+<h2>⚡️ Algunos datos rápidos</h2>
 <ul>
-    <li>🔭 Atualmente estou trabalhando na aréa de Logística.</li>
-    <li>👨‍💻 A maioria dos meus projetos está disponível no <a href="https://github.com/mazarafa">Github</a></li>
-    <li>💬 Passo o tempo codificando e criando coisas novas, especialmente quando elas podem ajudar a mim ou a outro ser humano de alguma forma.</li>
-    <li> 🔎 Pesquiso sobre Computação Musical e o seu processamento de audio.</li>
-    <li>📙Confira meu <a href="https://mazarafa.github.io/">currículo</a>.</li>
-    <li>🎉 Curiosidade: Sou DJ nas horas vagas!</li>
+    <li>🔭 Actualmente trabajo como ingeniero de sistemas y desarrollador full stack .NET.</li>
+    <li>👨‍💻 La mayoría de mis proyectos están disponibles en mi <a href="https://github.com/tu_usuario">GitHub</a>.</li>
+    <li>💬 Paso mi tiempo programando y creando soluciones tecnológicas que puedan ayudar a otros.</li>
+    <li>🔎 Investigo sobre bases de datos SQL Server y Oracle.</li>
+    <li>📙 Consulta mi <a href="https://tu_enlace_curriculum.com/">currículum</a>.</li>
+    <li>🎉 Curiosidad: Me apasiona aprender nuevas tecnologías y tendencias en desarrollo.</li>
 </ul>
-<h2>🚀 Algumas ferramentas que uso</h2>
+<h2>🚀 Algunas herramientas que uso</h2>
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
