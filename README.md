@@ -1,7 +1,7 @@
 
 
-<h2>Hey 👋, I'm <a href="https://mazarafa.github.io/">Jimmy Carrion</a></h2>
-<p>Soy ingeniero de sistemas y desarrollador full stack .NET con experiencia en la creación de aplicaciones web y móviles. Tengo sólidos conocimientos en bases de datos SQL Server y Oracle, y estoy comprometido con el desarrollo de soluciones tecnológicas innovadoras. Apasionado por la programación y la integración de tecnologías, siempre busco aprender y aplicar las mejores prácticas en mis proyectos 🎯.
+<h2>Hey 👋, Hola me llamo <a href="https://mazarafa.github.io/">Jimmy Carrion</a></h2>
+<p>Soy ingeniero de sistemas y desarrollador full stack .NET con experiencia en la creación de aplicaciones web, escritorio y móviles. Tengo sólidos conocimientos en bases de datos SQL Server y Oracle, y estoy comprometido con el desarrollo de soluciones tecnológicas innovadoras. Apasionado por la programación y la integración de tecnologías, siempre busco aprender y aplicar las mejores prácticas en mis proyectos 🎯.
 </p>
 <p>
     <a href="https://github.com/jimmycarrionp" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-mazarafa.github.io-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://github.com/jimmycarrionp" target="_blank" rel="noreferrer" alt="Website Badge"></a> 
